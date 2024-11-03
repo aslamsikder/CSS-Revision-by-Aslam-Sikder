@@ -1,0 +1,19 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  font-family: cursive;
+  color: pink;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  color: lightpink;
+  font-size: 20px;
+}
+
+a {
+  font-size: 18px;
+}

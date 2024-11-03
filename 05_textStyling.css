@@ -1,0 +1,16 @@
+body {
+  background-color: #E4F2F2;
+}
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  color: gold;
+}
+p {
+  font-family: sans-serif;
+  font-size: 20px;
+  color: #FF8B17;
+  text-transform: capitalize;
+  text-align: justify;
+}

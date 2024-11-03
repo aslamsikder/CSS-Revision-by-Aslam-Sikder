@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+  background-color: green;
+}
+
+h3 {
+  background-color: blue;
+}
+
+p {
+  background-color: orange;
+}
+
+ol {
+  color: purple;
+  background-color: pink;
+  border: 3px solid yellow;
+}
+
+body {
+  background-color: skyblue;
+}

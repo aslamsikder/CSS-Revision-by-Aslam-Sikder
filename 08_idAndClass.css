@@ -1,0 +1,25 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  text-align: center;
+  color: orange;
+  text-transform: uppercase;
+  font-family: cursive;
+}
+p {
+  font-family: serif;
+  text-indent: 15px;
+  color: red;
+  text-align: justify;
+}
+/* This Class is for all the animal's picture*/
+.animal {
+  width: 300px;
+}
+
+/* This ID is for social media icon. ID should declare for the unique element only.*/
+#smIcon {
+  width: 30px;
+}
